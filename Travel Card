@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        
+        <style>
+        body{
+            background-color:blue;
+        }
+        h1{
+            color:orange;
+        }
+        
+        #Hawaii{
+            background-color:green;
+        }    
+        
+        #Hawaii-2{
+            background-color:rgb(46, 150, 129);
+        }
+        
+        .Red{
+            color:white;
+        }
+        
+        .Yellow{
+            color:red;
+        }
+        
+        p{
+            color:orange;
+        }
+        </style>
+        
+    </head>
+    <body>
+    
+        <h1>Travel to Hawaii!!!</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/en/b/b6/Hawaii_SunSet2111111.jpg" alt= "beautiful beach sunset" width="150">
+        
+        <p><strong>We all have wanted a vacation. </strong>Whether it was because we were just sick and tired of having to go to work everyday, or maybe because we just felt bored looking at the same scenery all the time. Regardless of <em>why</em> you've wanted a vacation, I know the perfect place to go. Hawaii!!!</p>
+        
+        <h1 id="Hawaii">Why is Hawaii So Great? </h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Family_jump.jpg" alt="a group of freinds having fun" width="180">
+        <ul>
+        <li class="Red"> <strong>Total relaxtion.</strong> You get to stay at some of the world's <em>best</em> resorts and spas.</li>
+        <li class="Yellow"> The <strong>amazing weather</strong> will <em>definitely</em> make you want to stay outside for the entire day, something you can't say up north.</li>
+        <li class="Red"> The <strong>spectacular views</strong> will be <em>forever</em> imprinted into you're mind, you'll never forget them. </li>
+        <li class="Yellow"> The <strong> fantastic food </strong> from <em>many</em> different countries, such as Vietnam and India, will make your mouth water.  </li>
+        </ul> 
+        
+        <h1 id="Hawaii-2">What should I bring to Hawaii?</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Reisekoffer_Vulkanfiber.JPG/220px-Reisekoffer_Vulkanfiber.JPG" alt= "small brown suitcase" width="180">
+        <ul>
+        <li class="Red"><strong>Sunglasses and sunscreen</strong> are <em>essential</em> for most vacations in tropical areas, and Hawaii is no exception.</li>
+        <li class="Yellow">With all the travelling you're gonna do,<strong> comfortable shoes</strong> are needed to make sure you can stay out and enjoy the <em>great</em> weather. </li>
+        <li class="Red">It's a great idea to take <strong> toiletries </strong> just in case your hotel doesn't provide them for free.</li> 
+        <li class="Yellow"> Take any prescription/non-prescription medicine to make sure you can stay healthy while on vacation. </li>
+        </ul>
+        <p>This is my unordered list of things you should take to Hawaii. Remember though, you should only pack what you need. Packing too much can become inconvienient and annoying to carry around. Just pack the things I listed, plus some clothes, and you'll be fully prepared for your trip to Hawaii.</p>
+    </body>
+</html>
