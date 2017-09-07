@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Holiday card</title>
+        <style>
+        p {
+            color:rgb(255,0,0);
+        }
+        ol {
+            color:rgb(255,0,0);
+        }
+        
+        h1 {
+            color:rgb(255,0,0);
+        }
+        
+        h2 {
+            color:white;
+        }
+        
+        body {
+            background-color:rgb(0,255,0);
+        }
+            
+        </style>
+    </head>
+    <body>
+
+        <h1>Merry Christmas!!!</h1>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Weihnachten10.gif" alt="Evergreen tree with christmas decorations on it" width="100">
+        
+       <h2>My Wish List</h2>
+       
+       <ol> 
+       <li> Cookies!!!!</li>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Christmas_Cookies_Plateful.JPG" alt="Delicious, freshly baked cookies in the shapes of circles, gingerbread men, and hearts" width="120">
+       <li> Any laptop better than my ancient MSI </li>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Toughbook-cf-m34_4.jpg/220px-Toughbook-cf-m34_4.jpg" alt="Very old laptop" width="120">
+       <li> A bed that fixes its self </li>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Steel_bed.png" alt= "Cartoon bed with blue sheets" width="130">
+       </ol>
+       
+       <h2> Why Christmas is so enjoyable </h2>
+        <p>Christmas is a time where everyone can get together,<br>
+take a break, and enjoy their lives. There's no work to bother you, and you finally get to eat a lot cookies without being judged. There simply is no greater time of the year. 
+        </p>
+        
+        <h2>Christmas Poem!!!</h2>
+        <p>I’d like a stocking made for a giant,<br> 
+    And a meeting house full of toys,<br>
+    Then I’d go out in a happy hunt <br> For the poor little girls and boys;<br> Up the street and down the street,<br> And across and over the town,<br> I’d search and find them everyone,<br> Before the sun went down. 
+    
+
+</p>
+// I got this poem from http://christmas.365greetings.com/christmas-poems/short-christmas-poems.html. It is not my own poem.
+
+    </body>
+</html>
