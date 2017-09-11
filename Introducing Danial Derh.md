@@ -12,7 +12,7 @@ _Usually,_ after I come back from school and the weather is nice, I'll play bask
 ## _Interests and Hobbies!_
 I've many different interests and hobbies, but I'll list just a few here (in order of my preference):
 1. **Basketball**  
-I absolutely _love_ this sport. If I could have one wish granted, instead of wishing for world peace, I would wish for a basketball court inside my house.
+I absolutely _love_ this sport. If I could have one wish granted, instead of wishing for world peace, I would wish for a basketball court inside my house. Fun fact: Before playing for the KYBA, I played for ![MUMBA](https://www.gatorsbasketballacademy.com/) 
 2. **Eating**  
   a. Specfically **cookies**  
 Who doesn't like eating? I would eat cookies all day if I was rich and didn't have to worry about obesity. 
