@@ -22,5 +22,5 @@ Pretty self-explanatory. The only part of the day where you get to escape life's
 _Reading_. It's just one of those things that I can do for hours straight, and not get bored. Fun Fact: My favorite book series is Rick Riordan's: _The Heroes of Olympus_
 ## _A Picture That Represents Me!_
 You're gonna **love** this.   
-<img src="https://i.pinimg.com/736x/1a/eb/a4/1aeba46f5f2851f4c7c647d598e051c0--memes-funny-faces-funny-face-pics.jpg" width="150">  
+<img src="https://i.pinimg.com/736x/1a/eb/a4/1aeba46f5f2851f4c7c647d598e051c0--memes-funny-faces-funny-face-pics.jpg" alt="funny batman face" width="150">  
 I'm a goofy guy you know. I love joking around. I also really love this picture. **I'm Batman**.
