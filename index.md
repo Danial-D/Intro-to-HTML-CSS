@@ -1,1 +1,76 @@
 
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Website exercise</title>
+         <style>
+        body{
+            background-color:rgb(64, 176, 199);
+        }
+        #details{
+            background-color:rgb(235, 68, 235);
+            color:rgb(24, 3, 255);
+            border:ridge red 6px;
+            padding:6px;
+            position:relative;
+            bottom:3px;
+            width:95%;
+        }
+        span{
+            color:red;
+        }
+        #Birthday-Party{
+            color:red;
+            font-style:italic;
+        }
+        #To-My{
+            color:yellow;
+        }
+        h2{
+            font-family:sans-serif;
+        }
+        #Invited{
+            background-color:brown;
+            border:ridge blue 5px;
+            position:relative;
+            bottom:6px;
+            padding:5px;
+            font-family:cursive;
+            color: orange;
+        
+        }
+        #Joke{
+            position:relative;
+            left:220px;
+            color:blue;
+            background-color:rgb(227, 109, 142);
+            border:ridge red 4px;
+            margin:2px;
+            padding:4px;
+            width:96%;
+            left:0px;
+        }
+
+        
+        </style>
+        <body>
+        
+        <div id="Invited"><h1>Business Social Networking!</h1>
+        <h2><span id="To-My"></span>Sponsered By:<span id="Birthday-Party">The Button Locale!</span></h2></div>
+        
+        <div id="details"><p><strong>What is Business Social Networking and Business Etiquette ?</strong></p>
+        
+        <p> Business social networking is the process of expanding and connecting one's business through social networks. An example of a social network is Twitter or Facebook. One can connect their business with e-mail, voice mail, instant messaging, and such. Business etiquette is the set of social guidlnes required when communicating with others in a business enviornment.  </p>
+            </div>
+            
+            
+        <div id="Joke"><h4>The Dangers of Social Media to Employees and Businesses</h4><p>Social networks can help employees and businesses, but they can also severly damage them. This can happen when proper business etiquette is not used, which results in a tarnished reputation for the respective buisness/employee. This is why you should always be careful when on social media, otherwise you may not have  a job after that latest facebook post. An example of improper buisness etiquette is Donald Trump. Don't be Donald Trump. </p>
+       </div>
+<a href="https://danial-d.github.io/Intro-to-HTML-CSS-Markdown/Website%20Exercise%20Page%202.html"> <h2>To Page 2</h2></a>
+    
+    
+    </body>
+    </head>
+
+</html>
